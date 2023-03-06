@@ -1,4 +1,6 @@
 # Automation
 Archiving Logs in S3 By making a bash script
-Logs of EC2 or Server 
+
+
+Logs of Server 
 Using AWS CLI 
