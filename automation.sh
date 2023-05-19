@@ -6,7 +6,7 @@ sudo apt update -y
 #Variables for my name and for my s3 bucket
 timestamp=$(date '+%d%m%Y-%H%M%S')
 name="Anand"
-bucket="upgrad-anand"
+bucket="minor-project-AITR"
 
 
 
